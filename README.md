@@ -1,4 +1,4 @@
-# Advkce_app_react
+# Advice_app_react
 
 ## Link for the application:
 
