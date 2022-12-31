@@ -2,4 +2,4 @@
 
 ## Link for the application:
 
-advicelelo.netlify.app
+https://advicelelo.netlify.app/
